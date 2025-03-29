@@ -1,0 +1,2 @@
+http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=group+project&table=orders
+http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=group+project&table=users
